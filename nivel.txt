@@ -1,0 +1,13 @@
+perro 
+gato 
+animal
+teclado
+lentes
+archivo
+ver
+ayuda
+goma
+regla
+carpeta
+hoja
+lapicera

@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1623679316 source:c:\users\usuario\documents\programacion 2\parcial 2\proyecto\ahorcado.cpp
+	"ahorcado.h"
+	<iostream>
+	<string.h>
+	<fstream>
+	<cstdlib>
+	<stdlib.h>
+	<time.h>
+
+1623679161 c:\users\usuario\documents\programacion 2\parcial 2\proyecto\ahorcado.h
+	"diccionario.h"
+	"jugador.h"
+
+1623678666 c:\users\usuario\documents\programacion 2\parcial 2\proyecto\diccionario.h
+	<fstream>
+
+1623678666 c:\users\usuario\documents\programacion 2\parcial 2\proyecto\jugador.h
+
+1624335620 source:c:\users\usuario\documents\programacion 2\parcial 2\proyecto\diccionario.cpp
+	"diccionario.h"
+	<iostream>
+	<string>
+	<cstdlib>
+	<time.h>
+
+1623112863 source:c:\users\usuario\documents\programacion 2\parcial 2\proyecto\jugador.cpp
+	"jugador.h"
+	<string.h>
+
+1624331340 source:c:\users\usuario\documents\programacion 2\parcial 2\proyecto\main_ahorcado.cpp
+	<iostream>
+	"ahorcado.h"
+
